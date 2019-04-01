@@ -1,0 +1,7 @@
+organization=rajuantony-github
+projectKey=RajuAntony_varnishspy
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.23020
+dashboardUrl=https://sonarcloud.io/dashboard?id=RajuAntony_varnishspy
+ceTaskId=AWnX7h4LnZhjUG4ScvQ3
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWnX7h4LnZhjUG4ScvQ3
